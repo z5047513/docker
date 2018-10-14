@@ -1,2 +1,2 @@
 # docker
-docker examples
+contains Docker Examples and other misc objects
